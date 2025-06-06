@@ -40,9 +40,9 @@ Este trabajo integrador tiene como objetivo realizar un escaneo de vulnerabilida
 
 ## 🧰 Herramientas utilizadas
 
-- Sistema Operativo: Ubuntu
+- Sistema Operativo: Ubuntu.
 - Herramienta de escaneo: [Lynis](https://github.com/CISOfy/lynis)
-- Maquina Virtual: VirtualBox
+- Maquina Virtual: VirtualBox.
 
 ---
 
