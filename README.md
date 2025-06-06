@@ -49,7 +49,7 @@ Este trabajo integrador tiene como objetivo realizar un escaneo de vulnerabilida
 
 - 📷 Capturas de pantalla del informe Lynis
 - 📄 Fragmento del log: `/var/log/lynis.log`
-- 🎬 Video explicativo (a completar)
+- 🎬 Video explicativo: https://youtu.be/VdU9cLnkqW0 
 
 ---
 
